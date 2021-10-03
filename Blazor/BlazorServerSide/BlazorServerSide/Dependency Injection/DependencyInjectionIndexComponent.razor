@@ -1,0 +1,43 @@
+﻿@page "/DependencyInjectionIndex"
+@inject ICustomerService CustService
+@implements IDisposable
+
+<h3>DependencyInjectionIndexComponent</h3>
+<br />
+<br />
+Customer Service Id : @CustService.Uid
+<br />
+<br />
+Customer Name : @customer.Name
+
+
+@code {
+
+
+    // Wrong
+    //CustomerService cust = new CustomerService():
+
+    // Dependency Injection In ConfigureServices
+    // 1- AddTransient ==> means get a new instance whrn create new instance og class
+    // 2- AddSinglton  ==> means there is one instance of class all on the application running even refresh not change
+    // 3- AddScoped  ==> means there is one instance of class all on the application running even refresh change and new instance is created
+
+
+
+    private Customer customer;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        if (customer == null)
+        {
+            customer = CustService.GetCustomerById(1);
+        }
+    }
+
+    public void Dispose()
+    {
+
+    }
+}

@@ -1,0 +1,102 @@
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.exe
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.deps.json
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.runtimeconfig.dev.json
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.dll
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.pdb
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.Views.dll
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\bin\Debug\netcoreapp3.1\BlazorServerSide.Views.pdb
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorComponent.input.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\TitleComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorComponent.output.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorServerSide.dll
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.TagHelpers.input.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.TagHelpers.output.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorCoreGenerate.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\TitleComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorAssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\staticwebassets\BlazorServerSide.StaticWebAssets.Manifest.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\staticwebassets\BlazorServerSide.StaticWebAssets.xml
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorServerSide.styles.css
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.Views.pdb
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.dll
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.pdb
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\BlazorServerSide.csproj.CopyComplete
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\Component1.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\Component2.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\Component1.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\Component2.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\CallBack\ChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\CallBack\ParentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\Casecading\Counter.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\Parameter\OrderComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\Parameter\SalesComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\Ref\RefChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\Ref\RefParentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\RoutingParameter\TeamComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\CommuincationComponenets\RoutingParameter\TeamsComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\TempletedComponents\RanderFregment\RanderFragmentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\CallBack\ChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\CallBack\ParentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\Casecading\Counter.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\Parameter\OrderComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\Parameter\SalesComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\Ref\RefChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\Ref\RefParentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\RoutingParameter\TeamComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\CommuincationComponenets\RoutingParameter\TeamsComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\TempletedComponents\RanderFregment\RanderFragmentComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\FeildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\FeildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\GridAutoComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\GridAutoComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Controlers\RepeaterComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\TempletedComponents\IReadOnlyList_T\IReadOnlyListTComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\TempletedComponents\RanderFregment_T\RanderFregment_TComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Controlers\RepeaterComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\TempletedComponents\IReadOnlyList_T\IReadOnlyListTComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\TempletedComponents\RanderFregment_T\RanderFregment_TComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Life Cycle Events\LifeCycleEventsIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Life Cycle Events\LifeCycleEventsIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Life Cycle Events\LifeCycleEventsChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Life Cycle Events\LifeCycleEventsChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Life Cycle Events Avoiding a Data Intialization PitFall\LifeCycleEventsAvoidingaDataIntializationPitFallChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Life Cycle Events Avoiding a Data Intialization PitFall\LifeCycleEventsAvoidingaDataIntializationPitFallIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Life Cycle Events Avoiding a Data Intialization PitFall\LifeCycleEventsAvoidingaDataIntializationPitFallChildComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Life Cycle Events Avoiding a Data Intialization PitFall\LifeCycleEventsAvoidingaDataIntializationPitFallIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Forms And Validation\FormsAndValidationIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Forms And Validation\FormsAndValidationIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\Dependency Injection\DependencyInjectionIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\Dependency Injection\DependencyInjectionIndexComponent.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\RazorDeclaration\StateMangementWithFlux\StateMangementWithFluxCounter.razor.g.cs
+C:\Users\Mahmoud\Desktop\Blazor\BlazorServerSide\BlazorServerSide\obj\Debug\netcoreapp3.1\Razor\StateMangementWithFlux\StateMangementWithFluxCounter.razor.g.cs

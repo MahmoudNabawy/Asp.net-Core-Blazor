@@ -1,0 +1,28 @@
+﻿<h3>LifeCycleEventsAvoidingaDataIntializationPitFallChildComponent</h3>
+
+@if (this.Employee != null)
+{
+<h3>Employee Details:</h3>
+<p>
+    @Employee.Name
+</p>
+<p>
+    @Employee.Title
+</p>
+<p>
+    @Employee.Department
+</p>
+}
+
+@code {
+
+    [Parameter]
+    public Employee Employee { get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        if(this.Employee != null) this.Employee.LoadRecords();
+    }
+
+}

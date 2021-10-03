@@ -1,0 +1,71 @@
+﻿@page "/randerfregmentT"
+
+<h3>RanderFregment_TComponent</h3>
+
+<br />
+<br />
+
+<RepeaterComponent @ref="repeater" items="customers">
+    <Header>
+        <h2>Customers</h2>
+    </Header>
+    <Row Context="customer">
+        <div>
+            <b>@customer.CompanyName</b>
+            &nbsp;
+            <button class="btn" @onclick="(()=> 
+                                          {
+                                              EditCustomer(customer);
+                                          })">Edit</button>
+        </div>
+        <div class="ml-5">@customer.ContactName</div>
+        <div class="ml-5">@customer.PhoneNumber</div>
+        <br />
+    </Row>
+    <EditTemplate Context="currentCustomer">
+        <div>
+            <h3>Company Name :</h3><input type="text" @bind-value="currentCustomer.CompanyName" />
+        </div>
+        <div>
+            <h3>Contact Name :</h3><input type="text" @bind-value="currentCustomer.ContactName" />
+        </div>
+        <div>
+            <h3>Phone Number :</h3><input type="text" @bind-value="currentCustomer.PhoneNumber"/>
+        </div>
+    </EditTemplate>
+    <Footer>
+        <h4>This Is footer</h4>
+    </Footer>
+</RepeaterComponent>
+
+@code {
+
+    private RepeaterComponent<Customer> repeater;
+
+    private List<Customer> customers;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        customers = new List<Customer>();
+        customers.AddRange(new Customer[] {
+            new Customer{CompanyName="ABC Company", ContactName="Frank", PhoneNumber="010" },
+            new Customer{CompanyName="DEF Company", ContactName="Thomas", PhoneNumber="011" },
+            new Customer{CompanyName="GHI company", ContactName="John", PhoneNumber="012" },
+        });
+    }
+
+    private void EditCustomer(Customer customer)
+    {
+        repeater.ItemToEdit = customer;
+    }
+
+    class Customer
+    {
+        public string CompanyName { get; set; }
+        public string ContactName { get; set; }
+        public string PhoneNumber { get; set; }
+    }
+
+}

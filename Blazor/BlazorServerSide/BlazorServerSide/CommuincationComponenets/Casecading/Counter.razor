@@ -1,0 +1,22 @@
+﻿@page "/cascadingcounter"
+
+<h1>Counter</h1>
+
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<CascadingValue Name="Counter" Value="@currentCount">
+    <CascadingValue Name="CouterColor" Value="@("red")">
+        <Component1></Component1>
+    </CascadingValue>
+</CascadingValue>
+
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
